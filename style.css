@@ -3,6 +3,14 @@ body{
     color: #fff;
 }
 
+/* Hero Section */
+.hero-section {
+    text-align: center;
+    padding: 80px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 .main-heading {
     text-align: center;
     /* Using a light slate color for better contrast and readability on the dark background */
